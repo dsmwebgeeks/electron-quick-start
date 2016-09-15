@@ -21,4 +21,4 @@ reddit.list('hot', function(error, data, res){
   console.log(data);
   console.log(data.data.children["0"].data.title);
 
-});
+ });

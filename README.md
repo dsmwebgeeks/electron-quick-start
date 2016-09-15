@@ -35,7 +35,7 @@ For more example apps, see the
 [list of boilerplates](http://electron.atom.io/community/#boilerplates)
 created by the awesome electron community.
 
-### Repos from the Meetup Group
+### Demos
 
 Group: Kyle, Ten, and Jordan - [Link](https://github.com/kyle-hall/electron-quick-start)
 
